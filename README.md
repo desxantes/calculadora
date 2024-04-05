@@ -1,7 +1,7 @@
 # calculadora
 Small project for SIECOMP XXX - Introduction to PBL 
 
-Universidade Estudal de Feira de Santana - UEFS
+Universidade Estadual de Feira de Santana - UEFS
 
 
 Alert:
